@@ -27,9 +27,4 @@ Em PDF:
 
 https://app.powerbi.com/groups/me/reports/67a19932-a0cb-4770-beac-0e5e53d448fb?experience=power-bi
 
-
-
-![prompt 300 caracteres](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20300%20caracteres.png)
-
-
 ```
