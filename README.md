@@ -13,11 +13,11 @@ Visual de pizza: Lucro por segmento
 
 ## 🚀 Resultados
 
-! [pág 01](https://github.com/bids-work/desafio-analisando-dados-de-um-dashboard-de-vendas-no-powerbi/blob/main/desafio%20-%20pag%2001.png)
+![pág 01](https://github.com/bids-work/desafio-analisando-dados-de-um-dashboard-de-vendas-no-powerbi/blob/main/desafio%20-%20pag%2001.png)
 
-! [pág 02](https://github.com/bids-work/desafio-analisando-dados-de-um-dashboard-de-vendas-no-powerbi/blob/main/desafio%20-%20pag%2002.png)
+![pág 02](https://github.com/bids-work/desafio-analisando-dados-de-um-dashboard-de-vendas-no-powerbi/blob/main/desafio%20-%20pag%2002.png)
 
-! [pág 03](https://github.com/bids-work/desafio-analisando-dados-de-um-dashboard-de-vendas-no-powerbi/blob/main/desafio%20-%20pag%2003.png)
+![pág 03](https://github.com/bids-work/desafio-analisando-dados-de-um-dashboard-de-vendas-no-powerbi/blob/main/desafio%20-%20pag%2003.png)
 
 
 
